@@ -1,3 +1,7 @@
+%PSNR and SSIM codes are taken from stack overflow
+%code syntax is taken from MATLAB
+%IDFT and DFT codes are just like assingment1
+
 clc;
 clear all;
 close all;
